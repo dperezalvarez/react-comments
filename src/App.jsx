@@ -10,11 +10,7 @@ function App() {
   };
 
   return (
-    <div className="App">
-      <h1>Deja tu Comentario</h1>
-      <CommentForm onCommentSubmit={addComment} />
-      <CommentList comments={comments} />
-    </div>
+//TODO---------
   );
 }
 
